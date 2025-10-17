@@ -46,11 +46,13 @@ Seaborn
 How to Run
 
 Install dependencies (if not already installed):
+
 pip install pandas numpy matplotlib seaborn
 Run the Python script:
 python titanic_insights.py
 
 Clone this repository:https://github.com/misbahbhati/Infographic_Project
+
 The notebook will:
 
 Load and clean the Titanic dataset
