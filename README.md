@@ -24,8 +24,11 @@ Survival Rate by Age Group
 Survival Rate by Embark Town
 
 Survival Rate by Passenger Class
+
 Output: Generates a combined infographic (Tita.png) and displays it.
+
 Insights
+
 Women and children had significantly higher survival chances.
 
 First-class passengers had the highest survival rates.
@@ -39,15 +42,22 @@ NumPy
 Pandas
 Matplotlib
 Seaborn
+
 How to Run
+
 Install dependencies (if not already installed):
 pip install pandas numpy matplotlib seaborn
 Run the Python script:
 python titanic_insights.py
+
 Clone this repository:https://github.com/misbahbhati/Infographic_Project
 The notebook will:
+
 Load and clean the Titanic dataset
+
 Generate 4 insightful visualizations
+
 Save the final infographic as Tita.png
+
 Display the chart window
 
